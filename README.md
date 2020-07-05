@@ -15,7 +15,7 @@
   <br>
 <h3>所需套件：</h3>
 　　1、ArduinoSort 排序使用：https://github.com/emilv/ArduinoSort<br>
-　　2、
+　　2、Grove TM1637 套件：https://github.com/Seeed-Studio/Grove_4Digital_Display<br>
 <h3>接腳說明：</h3>
 　　D1：用來連接 LED，大於 8000rpm 會有超轉燈亮起<br>
 　　D3：PWM 接角，可以接收經過 PC817 過濾後的轉速訊號<br>
@@ -50,6 +50,6 @@ FZR150 自製轉速表 - Part2：https://3wa.tw/blog/blog.php?uid=shadow&id=1862
     http://stm32-learning.blogspot.com/2014/05/arduino.html</li>
   <li>6、Arduino 陣列排序<br>
     https://github.com/emilv/ArduinoSort</li>
-  <li>7、TM1637 套件 Glove 4Digital Display<br>
+  <li>7、TM1637 套件 Grove 4Digital Display<br>
     https://github.com/Seeed-Studio/Grove_4Digital_Display/</li>
 </ul>
