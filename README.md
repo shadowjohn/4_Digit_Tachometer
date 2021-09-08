@@ -45,6 +45,11 @@
 <a href="screenshot/video/1.mp4">影片 1</a><br>
 FZR150 自製轉速表 - Part2：https://3wa.tw/blog/blog.php?uid=shadow&id=1862<br>
 <br>
+<h3>注意事項：</h3>
+轉速訊號取得與接線方法，建議改成：https://github.com/shadowjohn/RPM_TACHOMETER
+<br>
+有空再更新吧^^"
+<br>
 <h3>其他參考資料：</h3>
 <ul>
   <li>1、抓取引擎訊號的二種解法： https://kokoraskostas.blogspot.com/2013/12/arduino-inductive-spark-plug-sensor.html<br>
